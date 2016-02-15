@@ -18,6 +18,6 @@ This is a lesson plan to follow for people with some experience of LEGO Mindstor
 Previously Created lessons that are not allocated to a stream
 
 ### Calibrate Color Sensor
-This is a program for anyone to download so they can calibrate their color sensor on port 3.
+This is a program for anyone to download so they can calibrate their color sensor in any port.
 
 Follow in instructions on the screen once you start running the program "calibrate"
